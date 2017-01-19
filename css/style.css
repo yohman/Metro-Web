@@ -1,0 +1,23 @@
+/*
+
+	This is the CSS stylesheet for the quakes application
+	A good CSS resource: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+*/
+html, body {
+	height:100%;
+}
+
+body {
+	margin:0; 
+	padding:0; 
+}
+
+#map {
+	height:100%;
+}
+
+#data {
+	overflow: scroll;
+	height: 100%;
+}
